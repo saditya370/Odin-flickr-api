@@ -1,0 +1,2 @@
+module FlickrOdinHelper
+end
